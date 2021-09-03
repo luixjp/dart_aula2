@@ -1,6 +1,6 @@
 import 'dart:io';
 
-//Exercicio Aula 2
+//Exercicio Aula 2 (Dart)
 
 void main(List<String> arguments) {
   var nomes = ['Luis', 'Felipe', 'Maria', 'Karla'];
